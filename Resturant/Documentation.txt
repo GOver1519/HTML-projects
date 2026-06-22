@@ -1,0 +1,168 @@
+# 🍽️ Foodie's Delight Restaurant Website
+
+A simple multi-page restaurant website built using only Basic HTML. This project was created as a beginner-friendly mini project to practice basic HTML concepts such as headings, paragraphs, links, images, lists, tables, and multimedia.
+
+## 📌 Project Overview
+
+**Foodie's Delight** is an imaginary Indian restaurant website that allows users to:
+
+* Learn about the restaurant
+* View the menu and prices
+* Browse food images
+* Find contact information and opening hours
+
+The project does not use CSS or JavaScript. The main purpose is to strengthen HTML fundamentals and understand how multi-page websites work.
+
+---
+
+## 🎯 Objectives
+
+* Practice creating multiple HTML pages
+* Understand website navigation using links
+* Display images and multimedia content
+* Organize information using lists and tables
+* Learn proper project folder structure
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+
+---
+
+## 📂 Project Structure
+
+```text
+restaurant-website/
+│
+├── index.html        # Home page
+├── menu.html         # Restaurant menu and pricing
+├── gallery.html      # Food gallery
+├── contact.html      # Contact information
+└── images/
+    ├── dish1.png
+    ├── dish2.png
+    ├── dish.png
+    ├── favorite1.png
+    ├── favorite2.png
+    ├── favorite3.png
+    └── restaurant.jpg
+```
+
+---
+
+## 📄 Pages Description
+
+### 1. Home Page (index.html)
+
+Contains:
+
+* Restaurant name
+* Welcome message
+* Navigation links
+* Restaurant image
+* Today's special dishes
+
+**HTML concepts used:**
+
+* Headings (`<h1>` to `<h3>`)
+* Paragraphs (`<p>`)
+* Links (`<a>`)
+* Images (`<img>`)
+* Lists (`<ul>`)
+
+---
+
+### 2. Menu Page (menu.html)
+
+Contains:
+
+* Food categories
+* Dish names
+* Prices
+
+**HTML concepts used:**
+
+* Headings
+* Tables (`<table>`)
+* Lists (`<ul>`)
+
+---
+
+### 3. Gallery Page (gallery.html)
+
+Contains:
+
+* Images of Indian dishes
+* Restaurant interior photographs
+
+**HTML concepts used:**
+
+* Images (`<img>`)
+* Headings
+* Paragraphs
+
+---
+
+### 4. Contact Page (contact.html)
+
+Contains:
+
+* Restaurant address
+* Phone number
+* Email address
+* Opening hours
+
+**HTML concepts used:**
+
+* Tables
+* Links
+* Paragraphs
+
+---
+
+## 🍛 Sample Menu Items
+
+* Butter Chicken
+* Veg Biryani
+* Paneer Butter Masala
+* Mango Lassi
+* Gulab Jamun
+
+---
+
+## 📚 Concepts Practiced
+
+✔ HTML document structure
+✔ Basic HTML tags
+✔ Navigation using hyperlinks
+✔ Working with images and multimedia
+✔ Ordered and unordered lists
+✔ Creating tables
+✔ Building a multi-page website
+
+---
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in any web browser.
+4. Use the navigation links to visit different pages.
+
+---
+
+## 🎓 Learning Outcome
+
+By completing this project, I learned how to:
+
+* Create and connect multiple web pages
+* Organize content using HTML elements
+* Display text, images, and tabular data
+* Structure a beginner-friendly website project
+* Build a complete static website using only HTML
+
+---
+
+### Made with ❤️ while learning HTML fundamentals.
