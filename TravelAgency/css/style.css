@@ -1,0 +1,142 @@
+body{
+    background-color: #BD4444;
+    
+}
+
+.navigation{
+    list-style-type:none;
+    background-color: #677E61;
+    border-radius: 20px;
+    width: 50%;
+}
+
+li{
+    display: inline-block;
+    margin: 10px 30px;
+}
+
+.navigation a{
+    text-decoration: none;
+    color: #F1DEC4;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hero{
+    width: 100%;
+}
+
+.hero img{
+    display: inline-block;
+    width: 50%;
+    border-radius: 30px;
+}
+
+.hero-text{
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    margin-left: 130px;
+    color: #211e1a;
+    vertical-align: 120px;
+}
+
+.hero-text a{
+    text-decoration: none;
+    color: #F1DEC4;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #677E61;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.highlight{
+    color:#F1DEC4;
+}
+
+.why-choose-us{
+    text-align: center;
+}
+
+.why-choose-us li{
+    background-color: #677E61;  
+    padding: 20px;
+    border-radius: 20px;
+    color: #F1DEC4;
+    font-weight: bold;
+}
+
+.why-choose-us h2{
+    font-weight: bold;
+    color: #211e1a;
+}
+
+
+.destination {
+    display: inline-block;
+    width: 22%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #677E61;
+    border-radius: 20px;
+    color: #F1DEC4;
+    vertical-align: top;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.destination img {
+    width: 100%;
+    height: 180px;
+}
+
+.popular-destinations h2, p{
+    text-align: center;
+    color: #211e1a;
+    
+}
+
+.customer-review{
+    text-align: center;
+    color: #211e1a; 
+}
+
+.review{
+    background-color: #677E61;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+    color: #F1DEC4;
+}
+
+.destination-gallery {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.destination-gallery img {
+    display: inline-block;
+    width: 45%;
+    height: 150px;
+    margin: 5px;
+    vertical-align: top;
+    border-radius: 8px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #BD4444;
+    border-bottom-width: 5px;
+    background-color: #677E61;
+    border-radius: 10px;
+    color: #211e1a
+}
+
